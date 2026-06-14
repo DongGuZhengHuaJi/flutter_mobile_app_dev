@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-flutter-.git/
+flutter_mobile_app_dev.git/
 ├── ch03_basic_components/      # 第3章  基础组件
 ├── ch04_layout_components/     # 第4章  布局类组件
 ├── ch05_container_components/  # 第5章  容器类组件
